@@ -3,7 +3,7 @@
 Simple calculator with common arithmetics operations.
 This app is built using React.js
 
-# Preview - https://ketandogra.github.io/Calculator_React.js/
+Preview - https://ketandogra.github.io/Calculator_React.js/
 
 # Features
 
