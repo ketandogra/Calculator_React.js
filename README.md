@@ -33,4 +33,4 @@ This app is built using React.js
 
 # Screenshot
 
-![Alt text]("./src/ProjectScreenShot/calculator.png")
+![calculator](https://github.com/ketandogra/Calculator_React.js/assets/75082428/f9e1349b-32a4-4d68-86e0-848ba7ac3f33)
