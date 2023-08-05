@@ -33,4 +33,4 @@ This app is built using React.js
 
 # Screenshot
 
-![Alt text](image.png)
+![Alt text]("./src/ProjectScreenShot/calculator.png")
